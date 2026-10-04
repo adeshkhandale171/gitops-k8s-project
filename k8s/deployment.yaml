@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: gitops-app
-          image: iamadeshkhandale/gitops-app:v1
+          image: iamadeshkhandale/gitops-app:v2
           ports:
             - containerPort: 80
